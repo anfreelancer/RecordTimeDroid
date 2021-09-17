@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Record Time Droid Smart</string>
+    <string name="buy" translatable="false">BUY</string>
+    <string name="premium" translatable="false">Premium</string>
+    <string name="notificacion">Recorded line</string>
+    <string name="action_acerca_de">About</string>
+    <string name="dias">days</string>
+    <string name="mensaje_acerca_de">
+        "App developed by Oscar Megía López\n\n"
+
+        "version %1$s (build %2$d)\n"
+        "under license GPLv3\n"
+        "https://www.gnu.org/licenses/gpl-3.0.html\n\n"
+
+        "Source code:\n"
+        "https://gitlab.com/Oscar65/RecordTimeDroid\n\n"
+
+        "Icon downloaded from:\n"
+        "https://icons8.com/icons/set/clock\n\n"
+
+        "If you want to make a donation:\n"
+        "ES17 1465 0100 95 1709864215\n\n"
+
+        "Also you can donate bitcoins in my wallet:\n"
+        "bc1qrldk9a9w8evj7p96aekefng36j6g9hv4xnsn3t"
+    </string>
+    <string name="mensaje_acerca_de_google">
+        "App developed by Oscar Megía López\n\n"
+
+        "version %1$s (build %2$d)\n"
+        "under license GPLv3\n"
+        "https://www.gnu.org/licenses/gpl-3.0.html\n\n"
+
+        "Source code:\n"
+        "https://gitlab.com/Oscar65/RecordTimeDroid\n\n"
+
+        "Icon downloaded from:\n"
+        "https://icons8.com/icons/set/clock"
+    </string>
+    <string name="reset">Reset</string>
+    <string name="selected_lines">Selected</string>
+    <string name="total">Total</string>
+</resources>
